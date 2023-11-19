@@ -12,6 +12,7 @@ According to several studies, the mean reaction time to detect visual stimuli is
 - (OS: Windows)
 - Python 3
 - dxcam (`pip install dxcam`)
+- numpy (`pip install numpy`)
 
 # How to use?
 - Open CMD
