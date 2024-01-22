@@ -7,7 +7,7 @@ According to several studies, the mean reaction time to detect visual stimuli is
 
 = competitive advantage
 
-# Preprequisites
+# Prerequisites
 - 1920x1080 in-game resolution (sorry rich gamers)
 - (OS: Windows)
 - Python 3
